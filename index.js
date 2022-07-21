@@ -1,2 +1,2 @@
-import requests from "./lib/requests";
+const requests = require("./lib/requests");
 module.exports = requests;
