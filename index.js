@@ -1,2 +1,2 @@
 import requests from "./lib/requests";
-export default requests;
+module.exports = requests;
